@@ -2,9 +2,6 @@
 # Étude de marché pour l'export
 
 
-
-
-![Logo]()
 ## Contexte
 
 Projet réalisé dans le cadre de la formation Data analyst chez OpenClassRooms.
